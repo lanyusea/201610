@@ -142,3 +142,22 @@ they do the powerpoint in gazbo....
 2. simple and clear system architectture:
 
     sense -. plan -> act
+
+
+---
+
+I jumped over about three talks in order to charge my laptop = =
+
+---
+
+### Trutle Bot III
+
+They come here to sell products.
+
+1. a highly packaged hardware PCB
+
+2. a SLAM demos
+
+3. modular and can install components in different format, car, tank, beast with leg, 2 wheel car, omni wheel car
+
+4. can 3D print any mechanical component
