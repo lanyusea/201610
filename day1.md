@@ -131,3 +131,14 @@ they do the powerpoint in gazbo....
     beta1 o ROS 2 end of this year
 
     _Let's move dji_sdk_ros to ROS2!_
+
+
+## APC Champion
+
+    sorry my laptop has no power :(
+
+1. moveit is suitable for pick and place pipeline for an industrial 'boxpacking' task
+
+2. simple and clear system architectture:
+
+    sense -. plan -> act
