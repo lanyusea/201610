@@ -150,7 +150,7 @@ I jumped over about three talks in order to charge my laptop = =
 
 ---
 
-### Trutle Bot III
+## Trutle Bot III
 
 They come here to sell products.
 
@@ -161,3 +161,39 @@ They come here to sell products.
 3. modular and can install components in different format, car, tank, beast with leg, 2 wheel car, omni wheel car
 
 4. can 3D print any mechanical component
+
+## Here comes the Intel RealSense!
+
+1. selling how good their robot platform and develop kit is
+
+2. still selling
+
+3. keeps selling
+
+4. they don't know what Yuneec is
+
+5. GG
+
+## Hardware-ROS
+
+1. a standard hardware interface
+
+2. modular components, including sensors, communicator and actor. all work as different ROS nodes that can connect to ROS network
+
+3. have DDS inside, not bare-metal problem, no core needed.(at least as the speaker told me)
+
+4. interesting, should be a future direction of ROS products.
+
+---
+A summery over all:
+
+abstract layer, abstract layer, abstract layers of abstract layers.
+
+everything stays the same since software was invented  LOL
+
+(please read _dreaming in code_ if you haven't, the third chapter(?), as I remember.
+
+## several three-minutes speakings from various organizations
+
+nothing to record
+
