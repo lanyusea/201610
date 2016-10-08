@@ -82,3 +82,52 @@ they do the powerpoint in gazbo....
 
     Graphical tools to physics valid
 
+## ROS2 update
+
+1. Goal
+
+    bare-metal micro controller, and several other unimportant features
+
+2. DDS as said in design doc, lossy network.
+
+    >http://design.ros2.org/articles/ros_on_dds.html
+
+    |user Code|
+
+    |DOS client libraray API|
+
+    |ROS milldeware API for DDS A or B or C or ...| (paired adapter)
+
+    |DDS implementation A or B or C or ...|
+
+3. changes since ROSCON2015: user-facing
+
+    windows update/ FAST RTPS/ python library update/ arm support/ wait\_for\_service node / turtlebot demo
+
+4. ROS client libraries
+
+    >http://design.ros2.org/articles/ros_middleware_interface.html
+
+    |User Code|
+
+    |rclcpp, rclpy, rclcs, rcljava| (rcl means ros client library)
+
+    |ROS client library|
+
+    |ROS middleware interface|
+
+    |DDS vendor|                            <--ddl-->                |Another DDS| (^ then from bottom to top)
+
+    (talker down, the subscriber listen from downside)
+
+5. porting experience
+
+    catkin(ROS1) <--> ament(ROS2)
+
+    similar -> mix -> together -> be one build tool
+
+6. roadmap
+
+    beta1 o ROS 2 end of this year
+
+    _Let's move dji_sdk_ros to ROS2!_
